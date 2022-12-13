@@ -9,6 +9,6 @@ Inicialmente, baixe o reposítório para seu espaço de trabalho, processo que p
 
 `$ git clone https://github.com/kaelkkd/Heap`
 
-Em seguida, para utilizar o programa, você deve adicionar seu arquivo ***main.c*** à pasta que ***heap.h*** e ***heap.c*** estiverem localizados, em seguida deve executar o makefile com o comando `make` e em seguida executar `./heap`.
+Em seguida, para utilizar o programa, você deve adicionar seu arquivo ***main.c*** à pasta que ***heap.h*** e ***heap.c*** estiverem localizados, em seguida deve executar o makefile com o comando `make` e em seguida executar o programa usando `./heap`.
 
 ***IMPORTANTE***: Note que seu arquivo **deve** estar nomeado como ***main.c*** por conta do template que deixei no Makefile, porém, caso queira, poderá editar o arquivo Makefile e escolher um nome de preferência ou simplesmente compilar o programa diretamente no terminal com `gcc heap.c "nome".c -o "nome"` e executá-lo.
