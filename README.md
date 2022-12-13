@@ -2,7 +2,7 @@
 Uma Heap estática feita em C para o quinto trabalho da disciplina de Laboratório de programação.
 
 ## Conteúdo
-Este repositório contém um arquivo de declaração e outro de implementação de uma Heap estática. Leia os arquivos ***heap.h*** e ***heap.c*** para se aprofundar no funcionamento do programa.
+Este repositório contém um arquivo Makefile, um arquivo de declaração e outro de implementação de uma Heap estática. Leia os arquivos ***heap.h*** e ***heap.c*** para se aprofundar no funcionamento do programa.
 
 ## Como usar
 Inicialmente, baixe o reposítório para seu espaço de trabalho, processo que pode ser feito baixando o arquivo zip ou pelo seguinte comando:
